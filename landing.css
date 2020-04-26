@@ -1,0 +1,44 @@
+body,
+html{
+	background: url(bgi.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	height: 100%;
+	font-family: "montserrat", sans-serif;
+}
+h1{
+	color: white;
+	text-align-last: center ;
+	text-decoration: 
+	font-size: 4em;
+	
+}
+.btn-xl{
+	padding: 1rem 2rem;
+
+}
+
+.btn{
+	font-weight: 700px;
+border-radius: 300px;
+text-transform: uppercase;
+}
+
+.btn-primary{
+	background-color: #F05F44;
+	border-color: #F05F44;
+}
+
+.btn-primary:hover{
+	background-color:  orange;
+	border-color: orange;
+	border-width: 6px;
+}
+
+hr{
+	border-color: #F05F44;
+	border-width: 4px;
+	max-width: 65px
+}
